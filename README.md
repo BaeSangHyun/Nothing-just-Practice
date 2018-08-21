@@ -54,3 +54,6 @@ function func(){
 'relative | 요소 **자신**을 기준으로 배치 |
 'absolute | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
 'fixed' | **브라우저 창**을 기준으로 배치 |
+
+구글 로고
+[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com)

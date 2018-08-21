@@ -57,4 +57,4 @@ function func(){
 
 구글 로고
 
-[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com)
+[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com "구글")

@@ -76,3 +76,7 @@ function func(){
 
 ## Installing
 If you use `npm istall d3`. Otherwise, download the [latest release](https://github.com/d3/d3/releases/latest).
+
+```javascript
+<script src="https://d3js.org/d3.v5.js"></script>
+```

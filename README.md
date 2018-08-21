@@ -58,7 +58,6 @@ function func(){
 <hr>
 구글 로고
 
-<<<<<<< HEAD
 [![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com)
 
 
@@ -67,6 +66,13 @@ function func(){
 <a href="https://d3js.org"><img src="https://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
 
 **D3** (or **D3.js**) is a JavaScript library for visualizing data to life using SVG, Canvas and HTML. D3 combines powerful visualization and techniques with a data-driven approach to dOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the righ visual interface for you data
-=======
-[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com "구글")
->>>>>>> ccd4f92586ba53579afe8fa8e35f02c4e6fcebcc
+
+## Resources
+- [API Reference](https://github.com/d3/d3/blob/master/API.md)
+- [Release Notes](https://github.com/d3/d3/releases)
+- [Gallery](https://github.com/d3/d3/wiki/Gallery)
+- [Examples](https://bl.ocks.org/mbostock)
+- [Wiki](https://github.com/d3/d3/wiki)
+
+## Installing
+If you use `npm istall d3`. Otherwise, download the [latest release](https://github.com/d3/d3/releases/latest).

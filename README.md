@@ -47,7 +47,7 @@ function func(){
     return a;
 }
 ```
-
+---
 값 | 의미 | 기본값
 ---|:---:|---:
 'static' | 유형(기준) 없음 / 배치 불가능 | 'static'
@@ -55,6 +55,7 @@ function func(){
 'absolute | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
 'fixed' | **브라우저 창**을 기준으로 배치 |
 
+<hr>
 구글 로고
 
 [![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com "구글")

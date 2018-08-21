@@ -47,7 +47,7 @@ function func(){
     return a;
 }
 ```
-
+---
 값 | 의미 | 기본값
 ---|:---:|---:
 'static' | 유형(기준) 없음 / 배치 불가능 | 'static'
@@ -55,8 +55,10 @@ function func(){
 'absolute | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
 'fixed' | **브라우저 창**을 기준으로 배치 |
 
+<hr>
 구글 로고
 
+<<<<<<< HEAD
 [![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com)
 
 
@@ -65,3 +67,6 @@ function func(){
 <a href="https://d3js.org"><img src="https://d3js.org/logo.svg" align="left" hspace="10" vspace="6"></a>
 
 **D3** (or **D3.js**) is a JavaScript library for visualizing data to life using SVG, Canvas and HTML. D3 combines powerful visualization and techniques with a data-driven approach to dOM manipulation, giving you the full capabilities of modern browsers and the freedom to design the righ visual interface for you data
+=======
+[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](http://google.com "구글")
+>>>>>>> ccd4f92586ba53579afe8fa8e35f02c4e6fcebcc
